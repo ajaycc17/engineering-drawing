@@ -1,0 +1,1 @@
+Draw the attached solid geometry in the part workbench.

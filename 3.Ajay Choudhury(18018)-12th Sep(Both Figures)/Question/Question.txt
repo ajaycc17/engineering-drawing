@@ -1,0 +1,1 @@
+Draw the 3 orthographic projections of the given figures and show dimensions.
